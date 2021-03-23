@@ -18,4 +18,4 @@ I am currently a scientific initiation fellow at the Brain Institute (ICe-UFRN),
 ![SQLite Badge](https://img.shields.io/badge/SQLite-blueviolet?style=flat&logo=SQLite&logoColor=white)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raffae2679&theme=tokyonight&show_icons=true) &nbsp;&nbsp; &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raffae2679&layout=compact&theme=tokyonight)](https://github.com/Raffae2679/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raffae2679&theme=tokyonight&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raffae2679&layout=compact&theme=tokyonight)](https://github.com/Raffae2679/github-readme-stats)
