@@ -19,3 +19,12 @@ I am currently an intern at the public ministry, working in the IT support secto
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raffae2679&theme=tokyonight&show_icons=true)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raffae2679&layout=compact&theme=tokyonight)](https://github.com/Raffae2679/github-readme-stats)
+
+<hr>
+
+<div> 
+ <a href = "mailto:raffael.dutra23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/raffael-morais-6a64a21b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
