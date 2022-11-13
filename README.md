@@ -4,7 +4,7 @@
 
 I'm a back-end developer with experience with python and django. I'm also a graduanting from the science and technology couse at Universidade Federal do Rio Grande do Norte (UFRN), I want to be a mechatronic engineer. Moreover, I'm an enthusiast in the programming area, always curious and passionate about new technologies and their possibilities for problem solving... Ah, I can't forget the data science area, another field that I'm very interested.
 
-I am currently an intern at the [ESIG Software e Consultoria](https://site.esig.com.br), working as a java developer, being responsible for implementing, correcting and validating Sigs systems.
+I am currently a member of the Brazilian Air Force, working as a specialist sergeant in the area of IT.
 
 <h3>Tech Stacks:</h3>
 
